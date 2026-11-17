@@ -1,2 +1,2 @@
 # TMkUP
-[v2.0 spec](v2.0.md)
+[v2.0 english spec](v2.0-en.md)
